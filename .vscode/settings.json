@@ -74,6 +74,7 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "variant": "cpp",
-        "__bit_reference": "cpp"
+        "__bit_reference": "cpp",
+        "queue": "cpp"
     }
 }
